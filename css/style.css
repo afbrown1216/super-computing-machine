@@ -265,6 +265,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 }
 /*** THE END h1, h2, h3, h4, h5, h6, h7, h8, h9, ***/
 
+
+
 /*** HERO HEADER ***/
 .hero-bg {
 	background: transparent;
@@ -408,12 +410,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 
 /*** SOCIAL LINKS ***/
 .soc-lnk {
-	color: #2937f0;
+	color: Grey;
     font-weight: 500;
 }
 
 .soc-lnk:focus {
-	color: #2937f0;
+	color: blue;
 }
 
 .soc-lnk:hover {
